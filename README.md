@@ -46,14 +46,5 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
         </sub>
       </a>
     </td>
-    <a href="https://github.com/wandersondefariasprogramador" >LINK-GITHUB</a>
-
-  </tr>
- 
-</table>
- 
- check application <a href="https://wandersondefariasprogramador.github.io/Site-de-Relogios-15.12.22/
- ">HERE!</a>
-
-
+  
 

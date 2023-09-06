@@ -1168,6 +1168,9 @@ body.dark-theme {
   .products__container,
   .new__container {
     padding-top: 2rem;
+    /* Resto do seu código CSS existente */
+
+
   }
 
   .testimonial__container {
@@ -1204,3 +1207,6 @@ body.dark-theme {
     right: 3rem;
   }
 }
+
+
+
